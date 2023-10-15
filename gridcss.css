@@ -3,7 +3,7 @@
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 1fr);
     gap: 10px;
-    height: 700px; /* Ajustez la hauteur de la grille selon vos besoins */
+    height: 700px; 
   }
   
   .item {
@@ -11,8 +11,8 @@
     justify-content: center;
     align-items: center;
     font-size: 24px;
-    background-color: #3498db; /* Couleur de fond générique pour tous les éléments */
-    color: #fff; /* Couleur du texte générique pour tous les éléments */
+    background-color: #3498db; 
+    color: #fff; 
   }
   
   .item1 {
