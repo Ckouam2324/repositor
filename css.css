@@ -1,0 +1,47 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 2080px; 
+  }
+  
+  .box {
+    margin: 10px; 
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } 
+
+  .box1 {
+    width: 890px;
+    height: 490px;
+    background-color:chartreuse;
+  }
+  
+  .box2 {
+    width: 490px;
+    height: 210px;
+    margin-top: 290px;
+    background-color: white;
+  }
+  
+  .box3 {
+    width: 380px;
+    height: 380px;
+    background-color: darkorange;
+    margin-left: 120px
+  }
+  
+  .box4 {
+    width: 890px;
+    height: 490px;
+    background-color:blueviolet;
+  }
+  h1 {
+    color: black;
+    font-size: 15px;
+  }
+  
